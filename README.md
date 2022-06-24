@@ -1,3 +1,9 @@
+# Instalando dependencias
+
+~~~bash
+npm install
+~~~
+
 # Para ejecutar
 
 ~~~bash
