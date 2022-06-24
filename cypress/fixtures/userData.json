@@ -1,0 +1,6 @@
+{
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!",
+    "loginMessage": "You logged into a secure area!",
+    "logoutMessage": "You logged out of the secure area!"
+}
